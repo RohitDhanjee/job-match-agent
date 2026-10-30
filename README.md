@@ -2,7 +2,7 @@
 
 An LLM agent that finds remote jobs and compares them with your CV. It searches real listings, scores each job by the skills it shares with your CV, and lists the gaps. Code-enforced guardrails stop it from inventing jobs or links. Works in English and Roman Urdu.
 
-**Live demo:** _coming soon_
+**Live demo:** https://job-match-agent-rohit.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue) ![Groq](https://img.shields.io/badge/LLM-Groq-orange) ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red) ![Tests](https://img.shields.io/badge/tests-27%20passing-green)
 
